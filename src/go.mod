@@ -1,4 +1,4 @@
-module std
+module github.com/gidoBOSSftw5731/go/src
 
 go 1.16
 
